@@ -1,4 +1,8 @@
 _repo: Benjamin-of-Ohio-A-Story-of-the-Settlement-of-Marietta_48344
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48344-h/images/icover.jpg
 creator:
   author:
     agent_name: Otis, James
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '1433'
     url: http://www.gutenberg.org/2009/agents/1433
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48344#Benjamin-of-Ohio-A-Story-of-the-Settlement-of-Marietta
 gutenberg_issued: '2015-02-23'
 gutenberg_type: Text
 identifiers:
